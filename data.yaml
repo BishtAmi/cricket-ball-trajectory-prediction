@@ -1,0 +1,8 @@
+path: C:\Users\singh\Desktop\Cricket-Ball-Trajectory-Prediction-master\Cricket-Ball-Trajectory-Prediction-master\cricket_ball_data
+train: newtrain
+val: valid/images
+
+names: 
+  0: cricketBall
+
+
